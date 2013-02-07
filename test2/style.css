@@ -1,0 +1,27 @@
+body {
+    margin:0;
+    padding:0;
+    height:3000px;
+    background: #dddddd;
+}
+
+.box{
+  padding: 0;
+  margin: 0;
+  width: 800px;
+  height: 400px;
+}
+
+
+
+#bg1{ background: url('img/c1.jpg')  no-repeat; }
+#bg2{ background: url('img/c2.jpg' ) no-repeat; }
+#bg3{ background: url('img/c3.jpg' ) no-repeat; }
+ #msg {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: Veranda, Arial, sans-serif;
+    color: orange;
+    opacity: 0;
+    position: fixed;
+}
